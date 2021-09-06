@@ -26,7 +26,7 @@ Arrow nos brinda una seria de gráficos para guiar al equipo de desarrollo en la
 # Aplicación en Java
 
 ![image info](./img/nuevoBoleto.PNG)
-![image info](./img/pagarBoleto.png)
+![image info](./img/pagarBoleto.PNG)
 
 Arrow nos dio este esquema, pero puede modificarse sin problemas.
 
